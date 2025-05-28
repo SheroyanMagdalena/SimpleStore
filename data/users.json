@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "name": "Allan",
+    "email": "admin@example.com",
+    "password": "$2b$10$k7d6E0k3RQfyjaZz8GZg/.I7piF.qvlflU.6eRvXsWhZzL5YrMW9C",
+    "role": "admin"
+  },
+  {
+    "id": 2,
+    "name": "Alex",
+    "email": "alex14@example.com",
+    "password": "$2b$10$eFWhAvrIo2v.KrTk3VJnOeFwEXNwwzU/hB.kR7PVsvUwq4DhMXZo6",
+    "role": "user"
+  },
+  {
+    "id": 3,
+    "name": "Jerry",
+    "email": "tomandjerry@example.com",
+    "password": "$2b$10$9xKh/jQmRW54UgfN74V5fuKuZKq3wSe7zKKnTzMNNepw/W6ULlg7S",
+    "role": "user"
+  },
+  {
+    "id": 4,
+    "name": "Test User",
+    "email": "test@example.com",
+    "password": "$2b$10$xpj8r.MP/M0wEI8xYCSv8eNWYswfiiq8VcqnuKF1z1sdSdDs92.8u",
+    "role": "admin"
+  },
+  {
+    "id": 5,
+    "name": "Test User",
+    "email": "test1@example.com",
+    "password": "$2b$10$VGIJ5nrHhjO7NuUrjHAjsechstj9xTxrukT3yTi/8PX/OaDjQixGa",
+    "role": "admin"
+  }
+]
